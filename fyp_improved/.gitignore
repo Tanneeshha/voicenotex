@@ -1,0 +1,60 @@
+# ============================================================
+# VoiceNoteX .gitignore
+# ============================================================
+
+# ── Flutter / Dart ─────────────────────────────────────────
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+*.g.dart
+*.freezed.dart
+doc/api/
+
+# ── Android ────────────────────────────────────────────────
+android/.gradle/
+android/local.properties
+android/build/
+android/app/build/
+android/key.properties
+*.keystore
+*.jks
+
+# ── iOS ────────────────────────────────────────────────────
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/flutter_export_environment.sh
+ios/Flutter/Generated.xcconfig
+
+# ── Python Backend ─────────────────────────────────────────
+backend/venv/
+backend/__pycache__/
+backend/routers/__pycache__/
+backend/ai_engine/__pycache__/
+backend/*.pyc
+backend/.env
+
+# ── IDE / Editor ───────────────────────────────────────────
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# ── Environment & Secrets ──────────────────────────────────
+.env
+.env.local
+*.env
+*.pem
+*.key
+
+# ── Logs ───────────────────────────────────────────────────
+*.log
+analysis_output.txt
+
+# ── OS Files ───────────────────────────────────────────────
+Thumbs.db
+Desktop.ini

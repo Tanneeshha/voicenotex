@@ -1,0 +1,98 @@
+[
+  {
+    "_id": {
+      "$oid": "6ac93fe718f5719434f74954"
+    },
+    "name": "Test Student",
+    "email": "smoketest@example.com",
+    "password": {
+      "$binary": {
+        "base64": "JDJiJDEyJE5sNlR0bzRNL0ppNHlHNjRFZnhKRHVXeGlnUW9PYlNPSDFESm91d3Y1RmE0cHZiNi5ldjFl",
+        "subType": "00"
+      }
+    },
+    "created_at": {
+      "$date": "2026-10-09T19:26:31.752Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac946975b3124f7674ced5e"
+    },
+    "name": "khushal",
+    "email": "rathore@gmail.com",
+    "password": {
+      "$binary": {
+        "base64": "JDJiJDEyJExWV1pNWlNQbXR1aHJQNEN5QW9rSGVpd2QzbmI4SVZNNkQ5VWRYYkh1cWFkYjFEd3ZDWWdl",
+        "subType": "00"
+      }
+    },
+    "created_at": {
+      "$date": "2026-10-09T19:55:03.646Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac94c775b3124f7674ced61"
+    },
+    "name": "Dogeshbhai",
+    "email": "dog@gmail.com",
+    "password": {
+      "$binary": {
+        "base64": "JDJiJDEyJDVVWFlzUXg0WHdHWm54MG16MzRMWnV6anlZLzdwSHJoUjdOOUtZcEJmOWpPZXFXalhGY2R1",
+        "subType": "00"
+      }
+    },
+    "created_at": {
+      "$date": "2026-10-09T20:20:07.540Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac94d605b3124f7674ced62"
+    },
+    "name": "vishal",
+    "email": "babubhai@gmail.com",
+    "password": {
+      "$binary": {
+        "base64": "JDJiJDEyJHlobUx4bnBDbkovdXJiUGlkVzFRRE9MMUQxUkN0MEdLaWxGZWNTUUF6N3VXRWt3VkxKTWhX",
+        "subType": "00"
+      }
+    },
+    "created_at": {
+      "$date": "2026-10-09T20:24:00.145Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac958a5e666ae7cad419afa"
+    },
+    "name": "nnnnnnnnnn",
+    "email": "nnn@gmail.com",
+    "password": {
+      "$binary": {
+        "base64": "JDJiJDEyJEFqaFdMeU1xQnNPdWEuMGsuaEw2U092M3pLaGVhQnlPRjJvNElsaDQuY3NtaGJpaUxsL1Vl",
+        "subType": "00"
+      }
+    },
+    "created_at": {
+      "$date": "2026-10-09T21:12:05.234Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac9593fe666ae7cad419afb"
+    },
+    "name": "Apple",
+    "email": "a@gmail.com",
+    "password": {
+      "$binary": {
+        "base64": "JDJiJDEyJFRrYzZyNlY5WExZRGZNZS5aUTZpSU9nUWZoWlJkZXlMLzg3MnRFZnowM1R5QjFrNWhTZkZT",
+        "subType": "00"
+      }
+    },
+    "created_at": {
+      "$date": "2026-10-09T21:14:39.420Z"
+    }
+  }
+]

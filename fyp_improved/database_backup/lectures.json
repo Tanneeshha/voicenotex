@@ -1,0 +1,44 @@
+[
+  {
+    "_id": {
+      "$oid": "6ac948f35b3124f7674ced5f"
+    },
+    "lecture_id": "3e03ccfa-50e0-4d0d-8e01-31db070458ab",
+    "user_email": "rathore@gmail.com",
+    "title": "ai",
+    "course_code": "css",
+    "instructor": "DogeshBhai",
+    "transcript": "Computer Science is the study of computers and computational systems. It includes programming, software development, databases, networking, and cybersecurity. Computers process data using hardware and software. Programming languages help us create applications and solve problems. Computer science is important in education, business, healthcare, communication, and technology. It makes work faster, easier, and more efficient",
+    "lecture_prompt": "Computer Science is the study of computers and computational systems. It includes programming, software development, databases, networking, and cybersecurity. Computers process data using hardware and software. Programming languages help us create applications and solve problems. Computer science is important in education, business, healthcare, communication, and technology. It makes work faster, easier, and more efficient",
+    "ai_response": "**Computer Science \u2013 Structured Overview**\n\n1. **Definition and Core Components**  \n   - *Computer Science* is the systematic study of computational systems and the processes that enable them to operate.  \n   - It encompasses:  \n     - **Programming**: Writing code in languages such as Python, Java, or C++ to implement algorithms.  \n     - **Software Development**: Designing, building, testing, and maintaining applications.  \n     - **Databases**: Organising, storing, and retrieving data using SQL or NoSQL systems.  \n     - **Networking**: Managing communication protocols and data transmission across devices.  \n     - **Cybersecurity**: Protecting information and systems through encryption, authentication, and threat detection.  \n\n2. **How Computers Process Data**  \n   - **Hardware**: Physical components (CPU, memory, storage) that execute instructions.  \n   - **Software**: Programs and operating systems that direct hardware to perform specific tasks.  \n   - The interaction between hardware and software transforms raw input into processed output.  \n\n3. **Role of Programming Languages**  \n   - Serve as a bridge between human logic and machine execution.  \n   - Enable developers to translate problem statements into executable code, facilitating automation and innovation.  \n\n4. **Applications Across Sectors**  \n   - **Education**: Adaptive learning platforms and virtual classrooms.  \n   - **Business**: Enterprise resource planning (ERP) systems and data analytics.  \n   - **Healthcare**: Electronic health records (EHR) and diagnostic algorithms.  \n   - **Communication**: Internet protocols, social media, and real\u2011time messaging.  \n   - **Technology**: Embedded systems, robotics, and artificial intelligence.  \n\n5. **Impact on Efficiency**  \n   - Automates repetitive tasks, reduces human error, and accelerates decision\u2011making processes.  \n   - Enhances scalability and accessibility of services, leading to broader societal benefits.  \n\nThese points provide a concise yet comprehensive foundation for understanding the scope, mechanisms, and significance of Computer Science.",
+    "ai_title": "**Computer Science \u2013 Stru",
+    "subject": "Computer Science",
+    "chat_id": "70e49715-a58d-4b47-9b48-f6a268a16fd7",
+    "created_at": {
+      "$date": "2026-10-09T20:05:07.048Z"
+    },
+    "is_favorite": false,
+    "feedback": null
+  },
+  {
+    "_id": {
+      "$oid": "6ac94dd45b3124f7674ced63"
+    },
+    "lecture_id": "27d39106-4340-41ec-8561-f23e2d96159b",
+    "user_email": "babubhai@gmail.com",
+    "title": "Introduction to weather",
+    "course_code": "cs",
+    "instructor": "Dogeshbhai",
+    "transcript": "Computer Science (CS) is the study of computers and technology. It includes programming, software development, databases, artificial intelligence, and computer networks. Computer Science helps us solve problems quickly and efficiently. It is used in education, business, healthcare, and communication. Learning Computer Science develops logical thinking and creativity. It also provides many career opportunities in today's digital world.",
+    "lecture_prompt": "Computer Science (CS) is the study of computers and technology. It includes programming, software development, databases, artificial intelligence, and computer networks. Computer Science helps us solve problems quickly and efficiently. It is used in education, business, healthcare, and communication. Learning Computer Science develops logical thinking and creativity. It also provides many career opportunities in today's digital world.",
+    "ai_response": "**Computer Science \u2013 Overview**\n\n- **Definition**  \n  *Computer Science (CS) is the systematic study of computers and technology, encompassing the design, analysis, and application of computational systems.*\n\n- **Core Disciplines**  \n  - *Programming* \u2013 writing instructions for computers.  \n  - *Software Development* \u2013 creating, testing, and maintaining software systems.  \n  - *Databases* \u2013 organising, storing, and retrieving data efficiently.  \n  - *Artificial Intelligence* \u2013 enabling machines to perform tasks that normally require human intelligence.  \n  - *Computer Networks* \u2013 connecting computing devices for communication and resource sharing.\n\n- **Purpose and Impact**  \n  - *Problem\u2011solving* \u2013 CS provides tools and methods to address complex issues rapidly and efficiently.  \n  - *Sector Applications* \u2013 education, business, healthcare, and communication all rely on CS solutions.  \n  - *Skill Development* \u2013 learning CS cultivates logical reasoning, analytical thinking, and creative problem\u2011solving.  \n\n- **Career Opportunities**  \n  - *Software Engineer*  \n  - *Data Scientist*  \n  - *Network Architect*  \n  - *AI Researcher*  \n  - *Systems Analyst*  \n\n**Key Takeaway**  \nComputer Science equips individuals with the knowledge and skills to develop innovative technologies that drive efficiency and progress across multiple domains.",
+    "ai_title": "**Computer Science \u2013 Over",
+    "subject": "Computer Science",
+    "chat_id": "d3be109d-82a5-4ac5-af86-72f35a6478bf",
+    "created_at": {
+      "$date": "2026-10-09T20:25:56.973Z"
+    },
+    "is_favorite": false,
+    "feedback": null
+  }
+]

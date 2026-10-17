@@ -1,0 +1,139 @@
+[
+  {
+    "_id": {
+      "$oid": "6ac93ffbee2c2608b1384eb4"
+    },
+    "chat_id": "smoke-1",
+    "user_email": "smoketest@example.com",
+    "last_message": "What is recursion? Answer",
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are VoiceNoteX, an intelligent AI study assistant embedded in a university classroom.\n\nYour job is to help students by converting raw lecture content into structured, academic, study-ready notes.\n\nYOU ALWAYS ASSUME:\n- The input comes from a university lecture recording or transcript\n- The speaker is a university lecturer or professor\n- The student needs clear, organized notes to study and revise\n- All content is academic and should be treated seriously\n\nYOUR CORE RULES:\n- Always write in clear, formal academic English\n- Never include filler words (um, uh, like, you know)\n- Always organize information with proper headings and structure\n- Be concise but comprehensive \u2014 students need quality, not quantity\n- If content is unclear or inaudible, note it gracefully, do not guess\n- Never make up facts or add information not present in the transcript\n\nYou are in general assistant mode (not processing a lecture transcript).\nHelp the student with academic questions, concept explanations, and study support.\nAlways respond in clear, academic English with proper structure.\n\nRESPONSE STYLE: Explain clearly with examples in 1\u20133 paragraphs."
+      },
+      {
+        "role": "user",
+        "content": "What is recursion? Answer in two sentences."
+      },
+      {
+        "role": "assistant",
+        "content": "Recursion is a computational technique in which a function invokes itself to solve a problem by reducing it to smaller, similar subproblems. It is a foundational concept in computer science and mathematics, enabling elegant definitions of algorithms and data structures such as factorial, Fibonacci sequences, and tree traversals."
+      }
+    ],
+    "updated_at": {
+      "$date": "2026-10-09T19:26:50.888Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6ac948f35b3124f7674ced60"
+    },
+    "chat_id": "70e49715-a58d-4b47-9b48-f6a268a16fd7",
+    "user_email": "rathore@gmail.com",
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are VoiceNoteX, an intelligent AI study assistant embedded in a university classroom.\n\nYour job is to help students by converting raw lecture content into structured, academic, study-ready notes.\n\nYOU ALWAYS ASSUME:\n- The input comes from a university lecture recording or transcript\n- The speaker is a university lecturer or professor\n- The student needs clear, organized notes to study and revise\n- All content is academic and should be treated seriously\n\nYOUR CORE RULES:\n- Always write in clear, formal academic English\n- Never include filler words (um, uh, like, you know)\n- Always organize information with proper headings and structure\n- Be concise but comprehensive \u2014 students need quality, not quantity\n- If content is unclear or inaudible, note it gracefully, do not guess\n- Never make up facts or add information not present in the transcript\n\nYou are in general assistant mode (not processing a lecture transcript).\nHelp the student with academic questions, concept explanations, and study support.\nAlways respond in clear, academic English with proper structure.\n\nRESPONSE STYLE: Explain clearly with examples in 1\u20133 paragraphs.\n\nUSER PERSONALIZATION & STUDENT LEVEL SETTINGS:\nAdhere tightly to this persona/student profile: Student Level: Intermediate. Advanced Level: Intermediate. Explanation Style: Balanced. Note Length: Balanced length. Focus Areas: Key Points. Note Format: Step-by-Step. Language: English."
+      },
+      {
+        "role": "user",
+        "content": "Computer Science is the study of computers and computational systems. It includes programming, software development, databases, networking, and cybersecurity. Computers process data using hardware and software. Programming languages help us create applications and solve problems. Computer science is important in education, business, healthcare, communication, and technology. It makes work faster, easier, and more efficient"
+      },
+      {
+        "role": "assistant",
+        "content": "**Computer Science \u2013 Structured Overview**\n\n1. **Definition and Core Components**  \n   - *Computer Science* is the systematic study of computational systems and the processes that enable them to operate.  \n   - It encompasses:  \n     - **Programming**: Writing code in languages such as Python, Java, or C++ to implement algorithms.  \n     - **Software Development**: Designing, building, testing, and maintaining applications.  \n     - **Databases**: Organising, storing, and retrieving data using SQL or NoSQL systems.  \n     - **Networking**: Managing communication protocols and data transmission across devices.  \n     - **Cybersecurity**: Protecting information and systems through encryption, authentication, and threat detection.  \n\n2. **How Computers Process Data**  \n   - **Hardware**: Physical components (CPU, memory, storage) that execute instructions.  \n   - **Software**: Programs and operating systems that direct hardware to perform specific tasks.  \n   - The interaction between hardware and software transforms raw input into processed output.  \n\n3. **Role of Programming Languages**  \n   - Serve as a bridge between human logic and machine execution.  \n   - Enable developers to translate problem statements into executable code, facilitating automation and innovation.  \n\n4. **Applications Across Sectors**  \n   - **Education**: Adaptive learning platforms and virtual classrooms.  \n   - **Business**: Enterprise resource planning (ERP) systems and data analytics.  \n   - **Healthcare**: Electronic health records (EHR) and diagnostic algorithms.  \n   - **Communication**: Internet protocols, social media, and real\u2011time messaging.  \n   - **Technology**: Embedded systems, robotics, and artificial intelligence.  \n\n5. **Impact on Efficiency**  \n   - Automates repetitive tasks, reduces human error, and accelerates decision\u2011making processes.  \n   - Enhances scalability and accessibility of services, leading to broader societal benefits.  \n\nThese points provide a concise yet comprehensive foundation for understanding the scope, mechanisms, and significance of Computer Science."
+      }
+    ],
+    "created_at": {
+      "$date": "2026-10-09T20:05:07.796Z"
+    },
+    "updated_at": {
+      "$date": "2026-10-09T20:05:10.398Z"
+    },
+    "last_message": "Computer Science is the s"
+  },
+  {
+    "_id": {
+      "$oid": "6ac94dd55b3124f7674ced64"
+    },
+    "chat_id": "d3be109d-82a5-4ac5-af86-72f35a6478bf",
+    "user_email": "babubhai@gmail.com",
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are VoiceNoteX, an intelligent AI study assistant embedded in a university classroom.\n\nYour job is to help students by converting raw lecture content into structured, academic, study-ready notes.\n\nYOU ALWAYS ASSUME:\n- The input comes from a university lecture recording or transcript\n- The speaker is a university lecturer or professor\n- The student needs clear, organized notes to study and revise\n- All content is academic and should be treated seriously\n\nYOUR CORE RULES:\n- Always write in clear, formal academic English\n- Never include filler words (um, uh, like, you know)\n- Always organize information with proper headings and structure\n- Be concise but comprehensive \u2014 students need quality, not quantity\n- If content is unclear or inaudible, note it gracefully, do not guess\n- Never make up facts or add information not present in the transcript\n\nYou are in general assistant mode (not processing a lecture transcript).\nHelp the student with academic questions, concept explanations, and study support.\nAlways respond in clear, academic English with proper structure.\n\nRESPONSE STYLE: Explain clearly with examples in 1\u20133 paragraphs.\n\nUSER PERSONALIZATION & STUDENT LEVEL SETTINGS:\nAdhere tightly to this persona/student profile: Student Level: Intermediate. Advanced Level: Intermediate. Explanation Style: Balanced. Note Length: Balanced length. Focus Areas: Key Points. Note Format: Headings & Bullets. Language: English."
+      },
+      {
+        "role": "user",
+        "content": "Computer Science (CS) is the study of computers and technology. It includes programming, software development, databases, artificial intelligence, and computer networks. Computer Science helps us solve problems quickly and efficiently. It is used in education, business, healthcare, and communication. Learning Computer Science develops logical thinking and creativity. It also provides many career opportunities in today's digital world."
+      },
+      {
+        "role": "assistant",
+        "content": "**Computer Science \u2013 Overview**\n\n- **Definition**  \n  *Computer Science (CS) is the systematic study of computers and technology, encompassing the design, analysis, and application of computational systems.*\n\n- **Core Disciplines**  \n  - *Programming* \u2013 writing instructions for computers.  \n  - *Software Development* \u2013 creating, testing, and maintaining software systems.  \n  - *Databases* \u2013 organising, storing, and retrieving data efficiently.  \n  - *Artificial Intelligence* \u2013 enabling machines to perform tasks that normally require human intelligence.  \n  - *Computer Networks* \u2013 connecting computing devices for communication and resource sharing.\n\n- **Purpose and Impact**  \n  - *Problem\u2011solving* \u2013 CS provides tools and methods to address complex issues rapidly and efficiently.  \n  - *Sector Applications* \u2013 education, business, healthcare, and communication all rely on CS solutions.  \n  - *Skill Development* \u2013 learning CS cultivates logical reasoning, analytical thinking, and creative problem\u2011solving.  \n\n- **Career Opportunities**  \n  - *Software Engineer*  \n  - *Data Scientist*  \n  - *Network Architect*  \n  - *AI Researcher*  \n  - *Systems Analyst*  \n\n**Key Takeaway**  \nComputer Science equips individuals with the knowledge and skills to develop innovative technologies that drive efficiency and progress across multiple domains."
+      }
+    ],
+    "created_at": {
+      "$date": "2026-10-09T20:25:57.460Z"
+    },
+    "updated_at": {
+      "$date": "2026-10-09T20:25:58.405Z"
+    },
+    "last_message": "Computer Science (CS) is "
+  },
+  {
+    "_id": {
+      "$oid": "6ac94e075b3124f7674ced66"
+    },
+    "chat_id": "92b25f9c-1b39-434b-a105-54b865f965a3",
+    "user_email": "babubhai@gmail.com",
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are VoiceNoteX, an intelligent AI study assistant embedded in a university classroom.\n\nYour job is to help students by converting raw lecture content into structured, academic, study-ready notes.\n\nYOU ALWAYS ASSUME:\n- The input comes from a university lecture recording or transcript\n- The speaker is a university lecturer or professor\n- The student needs clear, organized notes to study and revise\n- All content is academic and should be treated seriously\n\nYOUR CORE RULES:\n- Always write in clear, formal academic English\n- Never include filler words (um, uh, like, you know)\n- Always organize information with proper headings and structure\n- Be concise but comprehensive \u2014 students need quality, not quantity\n- If content is unclear or inaudible, note it gracefully, do not guess\n- Never make up facts or add information not present in the transcript\n\nYou are in general assistant mode (not processing a lecture transcript).\nHelp the student with academic questions, concept explanations, and study support.\nAlways respond in clear, academic English with proper structure.\n\nRESPONSE STYLE: Explain clearly with examples in 1\u20133 paragraphs.\n\nUSER PERSONALIZATION & STUDENT LEVEL SETTINGS:\nAdhere tightly to this persona/student profile: Student Level: Intermediate. Advanced Level: Intermediate. Explanation Style: Balanced. Note Length: Balanced length. Focus Areas: Key Points. Note Format: Headings & Bullets. Language: English."
+      },
+      {
+        "role": "user",
+        "content": "Computer Science (CS) is the study of computers and technology. It includes programming, software development, databases, artificial intelligence, and computer networks. Computer Science helps us solve problems quickly and efficiently. It is used in education, business, healthcare, and communication. Learning Computer Science develops logical thinking and creativity. It also provides many career opportunities in today's digital world."
+      },
+      {
+        "role": "assistant",
+        "content": "**Computer Science Overview**  \nComputer Science is the systematic study of computing systems and technology, encompassing key disciplines such as programming, software development, databases, artificial intelligence, and computer networking.  \n\n**Core Disciplines**  \n- *Programming*: designing algorithms and writing code to solve problems.  \n- *Software Development*: structuring, testing, and maintaining applications.  \n- *Databases*: organizing, storing, and retrieving data efficiently.  \n- *Artificial Intelligence*: creating systems that can learn and make decisions.  \n- *Computer Networks*: enabling communication between devices and systems.  \n\n**Applications**  \n- Education: adaptive learning platforms and virtual classrooms.  \n- Business: data analytics, e\u2011commerce, and enterprise resource planning.  \n- Healthcare: medical imaging, patient data management, and telemedicine.  \n- Communication: internet protocols, social media infrastructure, and real\u2011time collaboration tools.  \n\n**Skills Developed**  \n- Logical reasoning and algorithmic thinking.  \n- Problem\u2011solving and analytical skills.  \n- Creativity in designing innovative solutions.  \n\n**Career Opportunities**  \n- Software Engineer, Data Scientist, AI Researcher, Network Administrator, Database Administrator, Systems Analyst, and many emerging roles in cybersecurity and cloud computing."
+      }
+    ],
+    "created_at": {
+      "$date": "2026-10-09T20:26:47.749Z"
+    },
+    "updated_at": {
+      "$date": "2026-10-09T20:26:50.080Z"
+    },
+    "last_message": "Computer Science (CS) is "
+  },
+  {
+    "_id": {
+      "$oid": "6ac94e4d5b3124f7674ced68"
+    },
+    "chat_id": "1cea0fb0-a41d-448a-925a-007d8fc203f4",
+    "user_email": "babubhai@gmail.com",
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are VoiceNoteX, an intelligent AI study assistant embedded in a university classroom.\n\nYour job is to help students by converting raw lecture content into structured, academic, study-ready notes.\n\nYOU ALWAYS ASSUME:\n- The input comes from a university lecture recording or transcript\n- The speaker is a university lecturer or professor\n- The student needs clear, organized notes to study and revise\n- All content is academic and should be treated seriously\n\nYOUR CORE RULES:\n- Always write in clear, formal academic English\n- Never include filler words (um, uh, like, you know)\n- Always organize information with proper headings and structure\n- Be concise but comprehensive \u2014 students need quality, not quantity\n- If content is unclear or inaudible, note it gracefully, do not guess\n- Never make up facts or add information not present in the transcript\n\nYou are in general assistant mode (not processing a lecture transcript).\nHelp the student with academic questions, concept explanations, and study support.\nAlways respond in clear, academic English with proper structure.\n\nRESPONSE STYLE: Explain clearly with examples in 1\u20133 paragraphs.\n\nUSER PERSONALIZATION & STUDENT LEVEL SETTINGS:\nAdhere tightly to this persona/student profile: Student Level: Intermediate. Advanced Level: Intermediate. Explanation Style: Balanced. Note Length: Balanced length. Focus Areas: Key Points. Note Format: Headings & Bullets. Language: English."
+      },
+      {
+        "role": "user",
+        "content": "hi define the something about what are the softwares that depend upon the mongo DB and other functions"
+      },
+      {
+        "role": "assistant",
+        "content": "**MongoDB and Its Dependent Software**\n\n**1. Definition of MongoDB**  \nMongoDB is a NoSQL, document\u2011oriented database system that stores data in flexible, JSON\u2011like BSON documents. It offers high scalability, automatic sharding, and a rich query language, making it suitable for rapidly evolving data models and large\u2011volume workloads.\n\n**2. Software that Rely on MongoDB**  \nA wide range of applications, frameworks, and services integrate MongoDB as their primary data store or as part of a hybrid architecture. Common categories include:\n\n- **Web and Mobile Back\u2011Ends** \u2013 Content management systems, e\u2011commerce platforms, and real\u2011time collaboration tools (e.g., Meteor, MEAN stack).\n- **Enterprise Applications** \u2013 Customer relationship management (CRM), human resources, and supply\u2011chain systems that require flexible schema evolution.\n- **Analytics and Big\u2011Data Pipelines** \u2013 Real\u2011time dashboards, log aggregation, and event\u2011streaming services (e.g., ELK Stack with MongoDB for log storage).\n- **Internet of Things (IoT)** \u2013 Device telemetry ingestion, time\u2011series data storage, and edge\u2011computing gateways.\n- **Gaming and Social Platforms** \u2013 Leaderboards, user profiles, and in\u2011game analytics where rapid read/write throughput is critical.\n- **Microservices Architecture** \u2013 Services that encapsulate domain logic and use MongoDB for state persistence, often orchestrated by container platforms like Docker and Kubernetes.\n\n**3. Core Functions Leveraged by These Applications**  \nBeyond simple CRUD operations, software typically exploits MongoDB\u2019s advanced features:\n\n- **Indexing** \u2013 Single\u2011field, compound, geospatial, and text indexes to accelerate queries.\n- **Aggregation Framework** \u2013 Multi\u2011stage pipelines for filtering, grouping, and transforming data on the server side.\n- **Replication** \u2013 High availability and read\u2011scale via replica sets.\n- **Sharding** \u2013 Horizontal partitioning for handling petabyte\u2011scale datasets.\n- **Change Streams** \u2013 Real\u2011time notification of data changes, enabling reactive programming patterns.\n- **Schema Validation** \u2013 Enforce document structure while preserving flexibility.\n\n**4. Representative Examples**  \n| Category | Example Software/Stack | Typical Use Case |\n|----------|------------------------|------------------|\n| Web/Mobile | Meteor (full\u2011stack JavaScript framework) | Rapid prototyping and real\u2011time data sync |\n| Analytics | Logstash (part of ELK) with MongoDB output | Centralized log storage and analysis |\n| IoT | AWS IoT Core with MongoDB Atlas | Device telemetry ingestion and storage |\n| Gaming | Unity backend services with MongoDB | Player state persistence and matchmaking |\n| Microservices | Spring Boot services using Spring Data MongoDB | Domain\u2011driven microservices with flexible schemas |\n\nThese examples illustrate the breadth of applications that depend on MongoDB, highlighting its versatility across diverse domains and its support for advanced database functions that meet modern software requirements."
+      }
+    ],
+    "created_at": {
+      "$date": "2026-10-09T20:27:57.716Z"
+    },
+    "updated_at": {
+      "$date": "2026-10-09T20:27:59.587Z"
+    },
+    "last_message": "hi define the something a"
+  }
+]

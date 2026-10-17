@@ -1,0 +1,55 @@
+name: my_fyp
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.10.0-162.1.beta
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # iOS style icons
+  cupertino_icons: ^1.0.8
+
+  # Your packages
+  speech_to_text: ^7.3.0
+  http: ^1.2.0
+  connectivity_plus: ^6.0.3
+  flutter_launcher_icons: 0.14.4
+  avatar_glow: ^3.0.1
+  flutter_markdown: ^0.7.7+1
+  shared_preferences: ^2.2.2
+  uuid: ^4.2.1
+  file_picker: ^10.3.10
+  flutter_highlight: ^0.7.0
+  intl: ^0.20.2
+  pdf: ^3.11.0
+  printing: ^5.11.1
+  path_provider: ^2.1.2
+  open_filex: ^4.3.4
+  audio_session: ^0.2.3
+  syncfusion_flutter_pdfviewer: ^33.2.5
+  permission_handler: ^11.0.0
+  nearby_connections: ^4.3.0
+  record: ^7.1.2
+  cross_file: ^0.3.5+5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon/app_icon.png"
+  remove_alpha_ios: true
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/icon/app_icon1.png
